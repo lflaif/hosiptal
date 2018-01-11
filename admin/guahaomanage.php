@@ -1,3 +1,7 @@
+/**
+**挂号管理界面
+**编写：Lf
+*/
 <?php
 	include("common.php");
 	include("../conn.php");
